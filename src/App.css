@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  padding: 50px;
+  outline: none;
+}
+
+.letter-box {
+  font-size: 48px;
+  margin: 20px;
+  color: #333;
+}
+
+.keyboard {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.key {
+  padding: 20px;
+  font-size: 20px;
+  border: 2px solid #999;
+  border-radius: 8px;
+  background-color: white;
+  min-width: 50px;
+}
+
+.key.active {
+  background-color: lightblue;
+  border-color: blue;
+}

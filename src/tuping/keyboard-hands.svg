@@ -1,0 +1,37 @@
+<!-- filepath: d:\nigina react\src\tuping\keyboard-hands.svg -->
+<svg viewBox="0 0 900 350" width="100%" height="350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Klaviatura -->
+  <rect x="60" y="60" width="780" height="180" rx="28" fill="#fff" stroke="#bbb" stroke-width="4"/>
+  <!-- Tugmalar -->
+  <g stroke="#bbb" stroke-width="2">
+    <!-- 1-qator -->
+    <rect x="110" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="180" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="250" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="320" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="390" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="460" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="530" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="600" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="670" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="740" y="100" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <!-- 2-qator -->
+    <rect x="140" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="210" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="280" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="350" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="420" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="490" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="560" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="630" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <rect x="700" y="150" width="60" height="40" rx="8" fill="#f8f9fa"/>
+    <!-- Space -->
+    <rect x="320" y="210" width="260" height="28" rx="12" fill="#f3f3f3"/>
+  </g>
+  <!-- Barmoqlarni ajratib ko‘rsatish uchun -->
+  <g>
+    <circle cx="250" cy="120" r="8" fill="#2196f3" fill-opacity="0.15"/>
+    <circle cx="460" cy="120" r="8" fill="#2196f3" fill-opacity="0.15"/>
+    <circle cx="650" cy="120" r="8" fill="#2196f3" fill-opacity="0.15"/>
+  </g>
+</svg>
