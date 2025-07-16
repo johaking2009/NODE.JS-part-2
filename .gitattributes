@@ -1,0 +1,1 @@
+*.katta_fayl_uzantisi filter=lfs diff=lfs merge=lfs -text
